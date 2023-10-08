@@ -12,13 +12,15 @@ This project is a Netflix clone that replicates the popular streaming platform's
 - Advanced search using GPT-based natural language processing.
 - Responsive design for various screen sizes.
 - Seamless video playback integration.
-- User authentication (if applicable).
+- User authentication using firebase
 
 ## Technologies Used
 
 - **React**: JavaScript library for building the user interface.
 - **Redux**: State management for predictable data flow.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Firebase Authentication**: Firebase as authenticator for website
+ 
 - **GPT (Generative Pre-trained Transformer)**: Advanced search functionality.
 
 ## Getting Started
@@ -38,3 +40,8 @@ This project is a Netflix clone that replicates the popular streaming platform's
    `npm install`
 4. Run development server
    `npm run start`
+
+### Contact
+Subhajit Kundu
+Email: kundusubhajit73@gmail.com
+Github: https://github.com/subhajit033
